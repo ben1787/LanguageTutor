@@ -1,0 +1,10 @@
+pydub
+PyAudio
+openai
+gtts
+simpleaudio
+SpeechRecognition
+google-cloud-texttospeech
+python-dotenv
+flask
+Flask-WTF
